@@ -25,8 +25,7 @@ App hold the following stuff:
 
 
 
-Copyright (c) 2020 Shahmeer Khan
-
+Copyright (c) 2025 Muhammad Hanan
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmeer-khan%2FArt-Gallery-App-Flutter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmeer-khan%2FArt-Gallery-App-Flutter?ref=badge_large)
