@@ -1,7 +1,5 @@
 # 🎨 Art Gallery
 
-[![Follow me on Medium](https://img.shields.io/badge/Medium-%40meer--khan-02b875?style=for-the-badge&logo=medium)](https://medium.com/@meer-khan) [![GitHub](https://img.shields.io/badge/GitHub-%40meer--khan-181717?style=for-the-badge&logo=github)](https://github.com/meer-khan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40meer--khan-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meer-khan/)
 
 Its an Art Gallery app with Admin panel.
 
@@ -21,14 +19,11 @@ App hold the following stuff:
 
 ## Author
 
-#### Shahmeer Khan 🧑
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Shahmeer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/meer-khan)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmeer-khan%2FArt-Gallery-App-Flutter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmeer-khan%2FArt-Gallery-App-Flutter?ref=badge_shield)
+#### Muhammad Hanan 🧑
 
-👉 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Shahmeer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/meer-khan)
+
+
 
 Copyright (c) 2020 Shahmeer Khan
 
